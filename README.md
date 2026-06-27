@@ -1,11 +1,14 @@
-![Banner image](https://user-images.githubusercontent.com/10284570/173569848-c624317f-42b1-45a6-ab09-f0ea3c247648.png)
 
-# n8n - Secure Workflow Automation for Job Scraping
+
+<img width="1715" height="375" alt="image" src="https://user-images.githubusercontent.com/10284570/173569848-c624317f-42b1-45a6-ab09-f0ea3c247648.png" />
+
+# 🤖n8n - Secure Workflow Automation for Job Scraping
 
 
 n8n is a workflow automation platform that gives technical teams the flexibility of code with the speed of no-code. 
 This workflow automates the entire process of finding relevant jobs, evaluating how well they match your résumé, and drafting tailored applications. It moves through several intelligent stages.
 
+<img width="1715" height="813" alt="image" src="https://github.com/user-attachments/assets/8f468f87-0740-4893-a860-e5be4ebbd576" />
 
 
 ## ⚡ Short‑Form Workflow Descriptions
@@ -36,7 +39,7 @@ This workflow automates the entire process of finding relevant jobs, evaluating 
 - **Generate Application**: AI writes a tailored application message.
 
 - **Create Draft Email**: Creates a Gmail draft with the generated application.
-- 
+  
 ## Support
 
 Need help? n8n community forum is a great place to get support and connect with other users:
